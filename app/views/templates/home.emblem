@@ -1,0 +1,13 @@
+a href="http://brunch.io/"
+  img src="http://brunch.io/images/brunch.png" alt="Brunch"
+
+h1 
+  | These templates are rendered in 
+    <a href="http://www.emblemjs.com">Emblem.js</a>.
+
+p Woot woot woot.
+
+ul
+  li thing thing thing
+  li woot woot woot
+  li wyeahahah
